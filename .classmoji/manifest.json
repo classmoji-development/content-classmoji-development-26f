@@ -1,5 +1,11 @@
 {
-  "modules": {},
+  "modules": {
+    "react": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    }
+  },
   "general": {
     "pages": [
       "trial"
