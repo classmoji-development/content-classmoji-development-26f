@@ -1,9 +1,7 @@
 {
   "modules": {
     "react": {
-      "pages": [
-        "test"
-      ],
+      "pages": [],
       "slides": [],
       "assignments": {}
     }
