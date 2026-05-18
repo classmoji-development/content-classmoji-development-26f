@@ -1,15 +1,15 @@
 {
   "modules": {
     "react": {
-      "pages": [],
+      "pages": [
+        "aaaaa"
+      ],
       "slides": [],
       "assignments": {}
     }
   },
   "general": {
-    "pages": [
-      "aaaaa"
-    ],
+    "pages": [],
     "slides": []
   }
 }
