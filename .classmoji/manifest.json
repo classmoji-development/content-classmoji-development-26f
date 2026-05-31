@@ -1,9 +1,14 @@
 {
-  "modules": {
+  "repositories": {
     "react": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "cool-assignment": {
+          "pages": [],
+          "slides": []
+        }
+      }
     }
   },
   "general": {
